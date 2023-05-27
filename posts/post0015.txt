@@ -1,0 +1,10 @@
+Bricks without straw
+
+Why would someone ask you to deliver bricks without straw?
+
+Why would someone ask you to try to deliver a software development project without internet connection, without development, test and production platforms? Why would someone ask you to deliver software, but refuse your team access to the users who are going to use it and the subject matter experts who know how it's supposed to work?
+
+#BricksWithoutStraw
+#SoftwareDevelopmentChallenges
+#UnrealisticExpectations
+#97AgileIdeas

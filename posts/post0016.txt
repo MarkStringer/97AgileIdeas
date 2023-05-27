@@ -1,0 +1,9 @@
+Bricks without straw
+
+Why would someone ask you to try to deliver a software development project without some essential thing that you need? Of course, there isn’t just one answer. But the most common one is this: the people who are asking you to make bricks without straw, don’t understand how bricks are made, or how software is made.
+
+Sometimes, they used to know how software is made. But now they are paying such keen attention to other demands across their organisation, they forgot. Sometimes, like Pharaoh, they are deliberately trying to make your job im-possible. But that’s very rare.
+
+
+
+#SoftwareDevelopment #ProjectManagement #BricksWithoutStraw #SoftwareEngineering #ITProjects #OrganizationalDemands #Pharaoh #Teamwork #SoftwareDelivery #Leadership #97AgileIdeas

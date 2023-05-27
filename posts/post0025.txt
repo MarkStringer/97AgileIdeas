@@ -1,0 +1,22 @@
+ Stories.
+
+Here's another contradiction relating to stories, or perhaps a couple.
+
+The more detailed the story, the more likely it is to be wrong.
+
+The more detailed the story, the more likely it is to go out of date. Before the development team gets around to planning it, the world may have changed.
+
+The world does change.
+
+Deciding how detailed stories need to be before they can be planned and implemented? Determining how many of the prioritised stories should have detailed work done on them?
+
+None of this can truly be decided outside of a project. It must be calibrated once the project begins.
+
+So, regardless of the stance you take at the beginning, you and your team will likely end up making changes.
+
+#97AgileIdeas
+#UserStories
+#ProjectPlanning
+#ChangeManagement
+#Detailing
+#Teamwork

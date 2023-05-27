@@ -1,0 +1,10 @@
+Stories
+
+Breaking up isn't as hard as you might think. Breaking stories up into smaller pieces is a very beneficial exercise. Most people who aren't familiar with Agile react in the same way – "Why bother? We need to do the whole thing." However, just thinking about how to break a big story down into smaller pieces is a healthy activity. Can we first handle the read/display of this data before we do the create/update/delete? Can we just work on the front end without the back end? Is dealing with the reporting for this interaction a separate story?
+
+#97AgileIdeas
+#AgileMethodology
+#SoftwareDevelopment
+#UserStories
+#ProjectManagement
+#BreakingDownTasks

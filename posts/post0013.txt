@@ -1,0 +1,25 @@
+Working software
+There are a lot of dimensions to working software.
+
+* Live data that can be modified.
+* Real users.
+* Running on a live server.
+* Running a process end to end.
+
+That's our destination.
+
+But when we talk about working software, we don't have to be talking about at the beginning.
+
+If we can't right now use live, read / writable data, maybe we can use like-live data. If we can't use that, maybe we could use realistic looking data. Maybe we can't do that, we just have to use dummy data.
+
+If we can't show this to all real users, maybe we could show it to a subset. If we can't do that yet, maybe we could show it so selected early adopters. And if not that, maybe just people within our organisation but outside of our team.
+
+A live server is better than a test server, which is better than just one laptop.
+
+Running a process end to end, is better than just running part of the process.
+
+Agile is an iterative process. Iterative and incremental.
+
+It's OK to have software that works on just one machine that uses dummy data, that we can only show to other members of the team. In the beginning, of course it won't run end to end. But that's working software. Once you've got that, you're on your way.
+
+#agile #97AgileIdeas #workingsoftware

@@ -1,0 +1,20 @@
+Bricks without straw
+
+Is there a bricks without straw problem on your project? If there is, that's the thing that you should be focusing on fixing.
+
+Not the meandering stand up.
+
+Not the acceptance criteria on the stories in the backlog.
+
+Nothing, but nothing to do with story points or velocity.
+
+If there's something that's wrong, like a bricks without straw problem, that means the project is never going to succeed unless it's fixed. Never.
+
+That's the thing that you have call out and get fixed.
+
+The great sage and fellow former Highgate resident Jerry Springer might have said (it's in the opera)
+"I don't solve people's problems, I televise them."
+
+That's your job now. Do you have a risk register? Are you reporting on it and reviewing it at least every two weeks? Are you making it clear what is the limiting factor on the speed of development?
+
+#97AgileIdeas #ProjectManagement #BricksWithoutStraw #ProblemSolving #Priorities #RiskRegister

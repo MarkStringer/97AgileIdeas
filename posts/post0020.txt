@@ -1,0 +1,16 @@
+"Bricks without Straw"
+
+If you're interested in scaling Agile across your development teams, you should be keenly aware of any "bricks without straw" problems.
+
+A situation only becomes a "bricks without straw" problem if the team can't solve it themselves, and attempts to escalate the issue have failed. This indicates that it's likely a problem occurring at an institutional level.
+
+Is there no way of allocating time for front-line staff to collaborate with user researchers without detracting from their primary tasks? Are development servers, test servers, and live servers not included in the project budget?
+
+These are "bricks without straw" problems, and they can only be resolved at an organizational level. And they can be solved at that level, making scaling Agile a much more likely prospect.
+
+#AgileDevelopment
+#TeamManagement
+#InstitutionalChallenges
+#BricksWithoutStraw
+#OrganizationalSolutions
+#97AgileIdeas

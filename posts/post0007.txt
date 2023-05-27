@@ -1,0 +1,12 @@
+Stand up
+Stand up is about facilitating empirical process. “Empirical” comes from the Greek word “εμπειρία” (“embiria”) which means “experience.” Empirical process has three key elements.
+
+Transparency - being able to see the world.
+Inspection - looking at it.
+Adaptation - changing what we do in light of what we see.
+
+When a team stands up and gives itself the chance to talk about what they’re doing and how things are going, they’re doing inspection and transparency.
+
+When they change what they do because of what they hear, then they’re adapting. The stand up is the most basic way of experiencing a project.
+
+#97AgileIdeas #Agile #standup

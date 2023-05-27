@@ -1,0 +1,23 @@
+Stories
+
+What should you capture in the stories? What the team needs to capture in the stories.
+
+Does that mean all the INVEST criteria need to be met?
+
+Independent, negotiable, valuable, estimable, sized (small?), testable?
+
+I’ve got to say, probably not.
+
+Does it mean that every story needs to be in the “As an X, I can Y so that Z” format?
+
+No.
+Does it mean that every story has to have been closely examined by a three amigos meeting?
+
+Guess what? No again.
+What about acceptance criteria?
+What about conditions of satisfaction?
+All these things are good ideas. Try them. Inspect and adapt.
+
+#userstories
+#agile
+#97AgileIdeas

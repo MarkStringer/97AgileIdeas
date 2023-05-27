@@ -1,0 +1,20 @@
+Stories
+
+As I'm writing about stories, I realize that I've stumbled across a contradiction.
+
+Managing software development is filled with contradictions, and if you don't have contact with them, you probably should.
+
+Managing contradictions is definitely an agile idea. It might be THE agile idea.
+
+What's the contradiction when it comes to stories? It's really all about the conversation, but you also need somebody who's willing to write things down.
+
+Not everything that has been said, but the essence and spirit of what’s been said.
+
+In my experience, most developers don't want to write things. Product owners don't want to write things either. The ones that can and do it well are treasures.
+
+What you need is somebody who's willing to write to try to capture the conversations that have been had, not in a super detailed way, but in a way that captures the essence without the need to dot every 'i' and cross every 't'.
+
+You might call that person a BA. You might call them a content designer. But they have to be a writer.
+
+#97agileideas
+#AgileDevelopment#SoftwareDevelopment#ProductManagement#BusinessAnalysis#ContentDesign

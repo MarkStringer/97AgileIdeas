@@ -1,0 +1,12 @@
+Working software
+“Showing working software to users is a power shift.”
+
+If I’m a Scrum master on a project, I’m not just there to be a facilitator. I’m there to advocate for working software. This means that I look like a troublemaker. I’m pushing for that power shift from senior people in the organisation to users. I’m pushing to move the team and its sponsors into an unstable situation.
+
+It also means I look like I’m an idiot. Who looks for trouble? Wouldn’t it be safer for all concerned if we just didn’t show the software to the users?
+
+Well in the short term, yes.
+
+But in the long term, no.
+
+#software #scrum #agile #97AgileIdeas

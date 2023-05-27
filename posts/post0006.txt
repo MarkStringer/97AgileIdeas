@@ -1,0 +1,13 @@
+Stand up
+
+At some point, there will be an attempt to shut down the stand up. Somebody will feel work is too pressing and that the stand up interferes with developers typing as fast as they possibly can.
+
+Developers, sometimes, will suggest that if only the team could agree on the precise format of user stories, no one on the team need ever speak to one another again.
+
+This is where I depart from the idea that I’m just a facilitator. The stand up is the fundamental drumbeat of Agile software development. I think it's my job to make sure it happens.
+
+#AgileDevelopment
+#StandUpMeeting
+#TeamCommunication
+#SoftwareDevelopmentDrumbeat
+#97AgileIdeas

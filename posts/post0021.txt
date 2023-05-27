@@ -1,0 +1,22 @@
+97 Agile Ideas
+
+Stories.
+
+Is a story merely an excuse for a conversation?
+
+Should a story be in the "As an X, I can Y, so that Z" format?
+
+Should a story be Independent, Negotiable, Valuable, Estimable, Sized, and Testable?
+
+Is a story only ready to be planned when it has acceptance criteria and conditions of satisfaction?
+
+Should stories never exceed a certain size?
+
+Is a story a negotiation between value, effort, and scope?
+
+None of the answers to these questions are straightforward.
+
+That's because what we do with stories is at the very heart of what agile software development is about. Of course that's where we're going to find the conflict and the complexity.
+
+
+#Agile, #SoftwareDevelopment, #UserStories, #ProjectManagement, #AgileBestPractices #97AgileIdeas

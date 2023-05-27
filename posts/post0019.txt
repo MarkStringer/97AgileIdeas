@@ -1,0 +1,16 @@
+Bricks without straw
+
+From the point of view of leaders, what really is a “bricks without straw” problem?
+
+A “bricks without straw” problem is a sign of a problem with strategy. Deciding to develop a software product is a part of a strategy. Deciding to develop a software product but, leaving out a crucial element? That’s a sign of a poorly; partially developed; or partially deployed strategy.
+
+Sometimes, something just got missed. There were funds for the software development team, but nobody thought to include funds for the improvement in the network speeds.  Sometimes it’s a resource problem – the strategy didn’t include a budget for the servers and if it had the strategy wouldn't have been funded.
+
+Sometimes it’s an influence problem. The leaders who approved the strategy have full control over their own department, but the subject matter experts and the users the team need to talk to? They work in a different department, with a different strategy, with other priorities.
+
+#97AgileIdeas
+#LeadershipChallenges
+#StrategicPlanning
+#ResourceManagement
+#CrossDepartmentalCollaboration
+#BricksWithoutStraw

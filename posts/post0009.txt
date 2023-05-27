@@ -1,0 +1,25 @@
+Working Software
+
+“Working software over comprehensive documentation.”
+
+The Agile manifest is 68 words long.
+
+Five of them are dedicated to working software.
+
+Why? My guess is that some, probably most, of the people who drafted the manifesto had struggled.
+
+They'd struggled to explain to their clients why writing a “comprehensive” specification wasn’t the recipe for software success.
+
+A big part of the problem is in that word. “Comprehensive.”
+
+How do you know that the specification is “comprehensive?”
+
+The answer is that you don’t.
+
+You’ve got to guess. You have to hope.
+
+Or you could start implementing that spec.
+
+Then run it. Show it. Publish it.
+
+#97AgileIdeas #workingsoftware #agile

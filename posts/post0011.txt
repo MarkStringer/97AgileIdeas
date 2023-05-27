@@ -1,0 +1,20 @@
+Working software
+“Why don’t we wait another couple of weeks until we’ve got this bit right. Why don’t wait until we’ve got the whole of this journey?”
+
+Why? Because you might have got it wrong.
+
+The users telling you that you’ve got it wrong?
+
+That’s embarrassing.
+
+Embarrassing for the people who pushed for the project. They used their influence to get this project funded.
+
+Embarrassing for the people who funded the project. They funded it!
+
+Maybe it doesn’t work at all, doesn’t work as expected? That’s embarrassing for developers.
+
+Maybe it doesn’t look great yet. That’s embarrassing for designers.
+
+Are you doing what's good for the project or for the product? Or are you avoiding embarrassment?
+
+#97AgileIdeas #workingsoftware #agile #embarrassment

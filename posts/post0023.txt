@@ -1,0 +1,15 @@
+Stories
+
+I often get asked for examples of user stories. However, stories from another project are almost always incomprehensible to outsiders.
+
+This is especially true for projects that have been running for a long time and have been successful.
+What's in the stories isn't a detailed specification; instead, the stories contain a bunch of shorthand conventions, possibly including phrases such as, "Do Y like we did X, but differently in P, Q, and R ways."
+
+These conventions have been developed by the team as they progressed. What should a story be? How big should it be? What should it include? How do we determine when a story is refined enough to be developed? These are the questions that the team answers as they proceed. They don't have all the answers at the beginning, and if these answers don't evolve and change, things are probably going awry.
+
+#97AgileIdeas
+#UserStories
+#ProjectManagement
+#Teamwork
+#SoftwareDevelopment
+#AgileMethodology

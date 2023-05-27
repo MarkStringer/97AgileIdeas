@@ -1,0 +1,10 @@
+Bricks without straw
+
+Many times when I'm working on a software development project, I and the team I’m working with face with a "Bricks without straw" problem. In the bible, Pharaoh asked the Israelite to make bricks without straw as a punishment for asking for their freedom. Making bricks required straw.
+
+I don’t think that most of the senior people that I work with are trying to punish the team. I just don’t think they understand how software development works. And why would they? That’s not their job. That’s why they don’t exactly understand that soft-ware development needs things like internet access; and office space; and test servers; and production servers; and access to these servers.
+
+#97AgileIdeas
+#SoftwareResourceGap
+#BricksWithoutStrawChallenge
+#BridgingTheDevDivide

@@ -1,0 +1,14 @@
+Bricks without straw
+ 
+One mistake that a lot of teams make is to try to ignore the bricks without straw problem. There’s no internet connection? Well, let’s do the best we can tethering with our phones. There are no development environment? No test environments? Let’s try to get as far as we can with the code on our laptops.
+
+If something is missing that means the project won’t succeed until it’s been found you have to make the right people aware of this. This has to be your first duty as Scrum master.
+ 
+Sure, do the best that you can in the meantime, but only if you’re also pushing to solve the central problem that’s limiting progress. If you aren't doing that, you're just making things worse.
+
+#97AgileIdeas
+#BricksWithoutStraw
+#ScrumMasterDuties
+#ProjectManagement
+#AgileMethodology
+#ProblemSolving

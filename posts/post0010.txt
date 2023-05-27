@@ -1,0 +1,21 @@
+Working software
+“Sufficiently advanced technology is indistinguishable from magic.” Arthur C Clarke
+
+Working software is magic. A specification document isn’t.
+
+People will respond to working software in a completely differently than they do to a spec. 
+
+Working software makes things obvious. It makes demands.
+
+When users see it, they’ll want more. They’ll want different things. Someone has to decide if they should get them.
+
+"This is slow."
+
+“I need a share button here.”
+
+“I need a report of everything that just happened.”
+
+This is a power shift. From the people who initiated the product, to the people who consume it. From the dream to the reality.
+
+#97AgileIdeas #workingsoftware #agile
+#software #technology
