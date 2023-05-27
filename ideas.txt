@@ -1,0 +1,45 @@
+The standup
+Working software
+John Boyd, the OODA Loop
+John Boyd, energy manoeuvrability theory
+Work in progress
+Kanban
+What is it?
+Planning
+The planning fallacy
+Retrospectives
+Show and Tells
+Why the selfies
+Why 97 Agile ideas
+What Scrum Owes Extreme programming
+TRIZ - managing contradictions
+TRIZ - parameters
+Stories
+Backlogs
+Product Ownership
+Patsy Rodenberg - second circle
+Agreed activity
+Death marches and trench warfare
+Test Driven development
+Refactoring
+Scale - unhappy families
+Cynefin
+Empirical process
+Inspection
+Transparency
+Adaptation
+Estimation
+Velocity
+burnup and burndown
+Commitment
+Some and all
+Value stream irrigation
+Brooks Law and the tar pit
+Chicken soup for the shirt
+The hiding hand
+Bricks without straw
+The law of the three nonsenses
+Organisational vectors
+A hungry crowd
+The swamp
+Software's dark secret
