@@ -1,0 +1,15 @@
+Stories
+
+
+Epics. Epic is a weird word. It isn’t a very frequently used word in English. Yes, an epic is a big, long story. That’s the idea. But really, in Agile an epic just points to a broad area of functionality. An epic is a collection of stories. A crucial idea is that you don’t need to implement all those stories. The eighty twenty principle applies in a bunch of different ways. Twenty percent of that epic is the most important stuff. Maybe eighty percent of it is worth doing at all. Twenty percent is worthless fluff. When you get down to those. It's fine to move on. Forget them.
+
+
+#AgileMethodology
+
+#StoryManagement
+
+#EpicStories
+
+#80_20Principle
+
+#97AgileIdeas
