@@ -15,6 +15,7 @@ What Scrum Owes Extreme programming
 The red bead game
 TRIZ - managing contradictions
 TRIZ - parameters
+Dev Ops
 Stories
 Backlogs
 Product Ownership
@@ -62,4 +63,10 @@ unhappy families
 The SNAFU principle
 Herren Morral and Sklaven Morral
 The shadows on the cave wall
-
+The theory of constraints
+Snow falling off a bamboo leaf
+Psychological safety
+All creativity is a sociopathic act
+What you see is all there is
+Parrot phrasing
+Nobody knows anything
