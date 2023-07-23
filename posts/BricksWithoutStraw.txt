@@ -1,0 +1,19 @@
+So a while ago I did some posts about bricks without straw. And a friend of mine mentioned that it had caused him to go back to the original reference in Exodus. 
+
+And it's worth thinking about that original nightmare boss Pharoah in the book of Exodus, Chapter 5 of the Christian Bible.
+
+Pharoah, deliberately instructs the overseers of the slaves to tell them to make bricks without straw. And this is in retaliation for the slaves (the Israelites) asking for time off for a religious holiday.
+
+Pharoah is explictly being a dick. He knows what he's doing is going mess up the Israelites.
+
+It didn't go so well for Pharoah. The result of his deliberate mismanagment was retalition from God in the form ten plagues. And the Israelites escaped into the desert. 
+
+But the truth is that when modern-day Pharoahs ask us to make bricks without straw, it's normality out of lack of understanding of how software development works.  
+
+They don't understand that the latest technology might not really perforam and well as advertised. They don't understand that in order to make sucessful software, we need to talk to subject matter experts and the people who use it.
+
+I think I've only come across one deliberate, admitted, attempt to sabotage a project. And that was from the supplier! Not from the client.
+
+It's really tempting when you're struggling under a bricks without straw problem to imagine malevolant intent on the part of the senior people who are responsible for the project. It's almost never the case. Far more often the cause of a bricks without straw problem is something like lack of understanding of how software development works, or a general distrust of people who are so furiously expensive to hire.
+
+The great news about a bricks without straw problem is that it has an easy solution - straw! The difficult part of solving the problem is getting Pharoah to see that his actions or inactions are causing the problem and that only he can solve it.

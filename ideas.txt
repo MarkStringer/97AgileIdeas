@@ -5,11 +5,10 @@ John Boyd, energy manoeuvrability theory
 Work in progress
 Kanban
 What is it?
-Planning
+Agile Planning
 The planning fallacy
 Retrospectives
 Show and Tells
-Why the selfies
 Why 97 Agile ideas
 What Scrum Owes Extreme programming
 The red bead game
@@ -82,3 +81,10 @@ There is no substitute for theory, there is also no substite for experience
 Fata morgana
 Flowers vs fruit
 Are you the idiot
+The Jerry Springer principle
+The giant monty-python foot of non functional requirements
+Measuring anything / everything
+Intentionality
+Procession
+Ecocyle planning
+Taylorism
