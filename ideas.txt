@@ -88,3 +88,7 @@ Intentionality
 Procession
 Ecocyle planning
 Taylorism
+Culture eats strategy for breakfast
+Conway's law - the pathologies of the organisation end up in the software
+Box's law - all models are wrong but some are useful
+Bullshit - Harry G Frankfurt
