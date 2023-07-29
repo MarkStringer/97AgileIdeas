@@ -92,3 +92,7 @@ Culture eats strategy for breakfast
 Conway's law - the pathologies of the organisation end up in the software
 Box's law - all models are wrong but some are useful
 Bullshit - Harry G Frankfurt
+What's now, what's next, what's the rest?
+The pareto principle
+Agile as a way of liberation
+The comms stack

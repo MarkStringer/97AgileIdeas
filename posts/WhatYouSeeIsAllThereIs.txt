@@ -1,0 +1,31 @@
+Yesterday I posted this video https://youtu.be/mt00C_A7lrs
+
+
+
+The whole idea of this "97 Agile Ideas" series is to review things that I've been thinking for a long time that I think are worth presenting, but also that I think are worth thinking about a lot deeper.
+
+
+
+"What you see is all there is" is an idea that I got from reading "Thinking Fast and Slow" by Daniel Kahneman. What it means is that people only think about things that are immediately in front of them. 
+
+
+
+My idea about this relating to project management was that this means that you need to make sure that people see the things that they need to think about. The major issues facing a project, the decisions that need to be made, the problems that need to be addressed. 
+
+
+
+But as I was talking about this last night, I realised that there's a much bigger issue here:
+
+
+
+"Most of what you see isn't there." 
+
+
+
+A major struggle in most projects is getting people to see what *is* there (i.e. a small, but growing piece of working software) rather than what they think *should* be there (the idea, the dream, of the project).
+
+
+
+I'm wondering if this is a very good question to ask on any project "What's there?" (i.e. what's visible)
+
+"What's really there?" (i.e. of the things that a visible how many of them exist, how many of them are ideas, dreams or projections).
