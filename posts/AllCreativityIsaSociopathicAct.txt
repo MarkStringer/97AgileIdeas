@@ -1,0 +1,25 @@
+﻿All creativity is a sociopathic act. 
+
+Making something that hasn't existed before is going to cause some kind of trouble. It is going to put someone's nose out of joint, it is at least going to raise the question of whether it's broken some rules.
+
+This doesn't just apply to things that we might imagine as "Creative" like art, music and literature. It also applies to things might seem more prosaic, but actually can be just as powerful and effective, like software.
+
+If releasing software weren't a sociopathic act, there wouldn't be so much resistance to its release. There wouldn't be so many last minute attempts to stop software being released because of (INSERT NON-FUNCTIONAL REQUIREMENT HERE). 
+
+And the corollary of this, that I'm not comfortable with, but I know to be true, is that software development needs sociopaths. For software to be released, it needs the involvement of people who are prepared to ruffle feathers, to upset people. It needs people who aren't stopped dead in their tracks by vague claims that some piece of software doesn't mean some set of regulations.
+
+This is an interesting Agile idea. Because it brings touches a bunch of others, that I haven't written about, and might not even have on the list.
+
+One of them is Venkatesh Rao's "Gervaise principle," (the idea that organisations are divided into "the clueless", "the losers" and "the sociopaths).
+
+Another is the idea that "Sooner or later, someone has to say fuck it." (I'm not sure that's even on my list). 
+
+Also the idea, closely connected to the Gervaise Principle, "Heads I win tails you lose."
+
+And Friedrich Nietzsche's idea of "Herren Moral and Sklaven Moral." 
+
+But here's the main point of this Agile idea. When you put something out into the world that wasn't there before, you're doing something slightly (or very) naughty. There will always be people who aren't happy about it. There will always be people who claim that there are some rules (which they can never quite point to) that say that you can't.  
+
+This might sound ridiculous and self-aggrandising. You're releasing some bit of business software, exactly how are you being bad boys and girls? What rules are you breaking? But in my experience, few things cause more trouble in a business environment that the release of working software.
+
+#97AgileIdeas #Post10 #ProjectManagmeent #Creativity #Sociopathy #Transgression

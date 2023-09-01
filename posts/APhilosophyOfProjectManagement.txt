@@ -1,0 +1,25 @@
+﻿A philosophy of project management
+
+I have a philosophy degree. You may or may not have a philosophy degree, but you certainly have a philosophy.
+
+One of the things that I learned from studying philosophy is that it's nearly impossible not to have a philosophy. Anyone who really gave not having a philosophy a go, I can absolutely guarantee that they would be a philosopher. 
+
+What do I mean? I mean this.
+
+Here are some of the building blocks of a philosophy.
+
+Ethics - how should we and other people behave? Is there really a purpose to life 
+Ontology - what exists?
+Aesthetics - what is beautiful and valuable?
+Logic - if we know some things, how can we reason from those things to other things?
+Epistemology - what do we know?
+Philosophy of science - how do we get to know knew things in the world?
+Philosophy of religion - what can we know about God?
+Philosophy of mind - what does it mean to be conscious? Is anyone (or anything else) conscious.
+Philosophy of language - how can things that we say and write (and draw) connect to the real world and having meaning?
+
+You will all have made some decisions about all of these things. It might not have been an explicit decision. You might not have given any of this much thought. But even if you haven't, maybe ESPECIALLY if you haven't, the silent decisions that you've made about all of these things will be powerfully influencing your life.
+
+You might think that none of this has got any relevance at all to project management. And I hadn't been thinking about it much. But as I do this "97 Agile Ideas" posting, but talking about good and bad metaphors for project management yesterday, made me realise that this is absolutely a problem of philosophy of language.
+
+A couple of days ago, talking about Daniel Kahneman's idea of "What you see is all there is," I realised that so much of what goes in project management is an argument (game, competition, is there a better metaphor) over what exists.  

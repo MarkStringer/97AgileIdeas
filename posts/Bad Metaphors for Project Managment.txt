@@ -1,0 +1,6 @@
+Bad Metaphors for project managmentment.
+
+Taylorism - "The work is understood, it could be done my anybody, it's just a matter of figuring out how to do it faster."
+Commitment and consistency - "Once you've given your word that something will happen, you have to keep it, no matter how much it costs, no matter whether it's possible or not."
+Naive Waterfall - "Write down everything that the system needs to do, and then build it."
+Agile project managment methodologies as ritualistic practices - If only we conduct the ceremonies of the agile method in exactly the right way, our project is guaranteed to be a success.
